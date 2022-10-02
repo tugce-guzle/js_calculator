@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    background-repeat: repeat;
+    background-size: 185px 165px;
+}
+.numbers{
+    width: 100%;
+    height: 80px;
+    background-color:#409AE1;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+.process{
+    width: 100%;
+    height: 80px;
+    background-color:#B4A0FF;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+table{
+    margin: auto;
+    width: 500px;
+    margin-top: 50px;
+    border-collapse: collapse;
+    border-radius:20px ;
+}
+
+button{
+    border-radius: 20px;
+}
+h1{
+    color:black;
+    margin-top: 70px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+}
+#inputfield{
+    width: 500px; 
+    height:70px; 
+    background-color:#40C5AF;
+    font-weight: bold; 
+    font-size: 30px; 
+    border-radius: 20px;
+}
+#themebutton_1{
+    width: 100%;
+    height: 50px; 
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+#themebutton_2{
+    width: 100%;
+    height: 50px; 
+    background-color: white;
+    font-weight: bold;
+    color: black;
+}
