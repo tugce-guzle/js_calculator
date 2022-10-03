@@ -6,7 +6,7 @@ body{
 .numbers{
     width: 100%;
     height: 80px;
-    background-color:#409AE1;
+    background-color:#266BB0;
     font-weight: bold;
     font-size: 30px;
     color: white;
@@ -14,7 +14,7 @@ body{
 .process{
     width: 100%;
     height: 80px;
-    background-color:#B4A0FF;
+    background-color:#9C27B0;
     font-weight: bold;
     font-size: 30px;
     color: white;
@@ -41,7 +41,7 @@ h1{
 #inputfield{
     width: 500px; 
     height:70px; 
-    background-color:#40C5AF;
+    background-color:#58DCBD;
     font-weight: bold; 
     font-size: 30px; 
     border-radius: 20px;

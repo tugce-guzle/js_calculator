@@ -1,6 +1,6 @@
-function light(){
-    document.body.style.backgroundColor='white';
-    document.getElementById('title').style.color='black';
+function dark(){
+    document.body.style.backgroundColor='#2a2a2a';
+    document.getElementById('title').style.color='white';
     for (i=0 ; i<=5 ; i++)
     {
         document.getElementsByClassName('process')[i].style.backgroundColor= "#B4A0FF" ;
@@ -10,9 +10,9 @@ function light(){
     }
     document.getElementById('inputfield').style.backgroundColor="#40C5AF";
 }
-function dark(){
-    document.body.style.backgroundColor="#2a2a2a";
-    document.getElementById('title').style.color='white';
+function light(){
+    document.body.style.backgroundColor="white";
+    document.getElementById('title').style.color='black';
     for (i=0 ; i<=5 ; i++)
     {
         document.getElementsByClassName('process')[i].style.backgroundColor= "#9C27B0" ;
